@@ -15,7 +15,7 @@ function MainComponent() {
     return (
         
         <div
-            className="relative h-full bg-cover"
+            className="h-full bg-cover"
             style={{ backgroundImage: `url(${backgroundimg})` }}
         >
             <div>
